@@ -25,7 +25,7 @@ li {
   background: linear-gradient(to top right, #524ad0 10%, #d099fa);
 }
 
-.box {
+#F5FFFD .box {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 }
 
