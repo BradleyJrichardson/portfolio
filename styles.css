@@ -12,6 +12,10 @@ html {
   font-family: "Nunito", sans-serif;
 }
 
+#typing {
+  font-size: 50px;
+  color: #8f99e7;
+}
 pre,
 .message {
   max-width: 960px;
@@ -22,7 +26,6 @@ li {
 }
 
 .hero.is-primary {
-  background: linear-gradient(to top right, #524ad0 10%, #d099fa);
 }
 
 #F5FFFD .box {
